@@ -1,5 +1,4 @@
-
-n=input()
-k=int(input())
-a=n*k
-print(a)
+s=input()
+n=int(input())
+for i in range(n):
+  print(s)
